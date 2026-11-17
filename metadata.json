@@ -1,0 +1,6 @@
+{
+  "name": "StudyPDF",
+  "description": "Bilingual English & Somali PDF Study Assistant Android client connected to the pdf-study-assistant-backend Cloudflare Workers API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
